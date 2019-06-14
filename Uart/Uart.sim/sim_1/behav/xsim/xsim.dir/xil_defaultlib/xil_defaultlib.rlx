@@ -1,0 +1,12 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Bgrhn/Desktop/Uart/Uart.srcs/sim_1/imports/project_1/uart_top_tb.vhd,1543515812,vhdl,,,,uart_top_tb,,,,,,,,
+C:/Users/Bgrhn/Desktop/Uart/Uart.srcs/sources_1/imports/project_1/receiver.vhd,1543519498,vhdl,,,,receiver,,,,,,,,
+C:/Users/Bgrhn/Desktop/Uart/Uart.srcs/sources_1/imports/project_1/timer.vhd,1543436016,vhdl,,,,timer,,,,,,,,
+C:/Users/Bgrhn/Desktop/Uart/Uart.srcs/sources_1/imports/project_1/transmitter.vhd,1543521178,vhdl,,,,transmitter,,,,,,,,
+C:/Users/Bgrhn/Desktop/Uart/Uart.srcs/sources_1/imports/project_1/uart_pc.vhd,1543520700,vhdl,,,,uart_pc,,,,,,,,
+C:/Users/Bgrhn/Desktop/Uart/Uart.srcs/sources_1/imports/project_1/uart_rx.vhd,1544020549,vhdl,,,,uart_rx,,,,,,,,
+C:/Users/Bgrhn/Desktop/Uart/Uart.srcs/sources_1/imports/project_1/uart_top.vhd,1543519992,vhdl,,,,uart_top,,,,,,,,
+C:/Users/Bgrhn/Desktop/Uart/Uart.srcs/sources_1/imports/project_1/uart_tx.vhd,1543520608,vhdl,,,,uart_tx,,,,,,,,
